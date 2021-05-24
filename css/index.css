@@ -1,0 +1,56 @@
+body{
+	margin:0px;
+	background:#F36239;
+}
+.image{
+	width: 1200px;
+}
+.caption{
+	text-align: center;
+	padding: 70px;
+}
+.sub{
+	width:750px;
+	margin:auto;
+	overflow: hidden;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+}
+.number{
+	float:left;
+	width: 19%;
+	background: white;
+	padding: 10px 0px;
+	margin: 5px 1 px;
+
+}
+.result{
+width: 1200px;
+padding: 20px 0px;
+background: green;
+text-align: center;
+	margin:auto;
+}
+.suggest{
+background: blue;
+text-align: center;
+	color: white;
+	margin:auto;
+	font-size: 30px;
+}
+.revise{
+	width: 900px;
+background: red;
+text-align: center;
+margin: auto;
+font-size: 50px;
+padding: 10px 0px;
+}
+.bye{
+	width: 300px;
+background: yellow;
+text-align: center;
+	padding: 10px 0px;
+	margin: auto;
+	font-size:20px;
